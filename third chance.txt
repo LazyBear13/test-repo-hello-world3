@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i changed taxt in thi file
+=======
+changed text from from other developer
+>>>>>>> 810e6a0dcb5ff751e62e975e3cf63e7f1007aa29
